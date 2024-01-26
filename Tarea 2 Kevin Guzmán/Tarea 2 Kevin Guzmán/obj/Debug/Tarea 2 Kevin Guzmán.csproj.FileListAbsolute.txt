@@ -1,0 +1,7 @@
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Tarea 2 Kevin Guzmán\Tarea 2 Kevin Guzmán\bin\Debug\Tarea 2 Kevin Guzmán.exe.config
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Tarea 2 Kevin Guzmán\Tarea 2 Kevin Guzmán\bin\Debug\Tarea 2 Kevin Guzmán.exe
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Tarea 2 Kevin Guzmán\Tarea 2 Kevin Guzmán\bin\Debug\Tarea 2 Kevin Guzmán.pdb
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Tarea 2 Kevin Guzmán\Tarea 2 Kevin Guzmán\obj\Debug\Tarea 2 Kevin Guzmán.csproj.AssemblyReference.cache
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Tarea 2 Kevin Guzmán\Tarea 2 Kevin Guzmán\obj\Debug\Tarea 2 Kevin Guzmán.csproj.CoreCompileInputs.cache
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Tarea 2 Kevin Guzmán\Tarea 2 Kevin Guzmán\obj\Debug\Tarea 2 Kevin Guzmán.exe
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Tarea 2 Kevin Guzmán\Tarea 2 Kevin Guzmán\obj\Debug\Tarea 2 Kevin Guzmán.pdb
