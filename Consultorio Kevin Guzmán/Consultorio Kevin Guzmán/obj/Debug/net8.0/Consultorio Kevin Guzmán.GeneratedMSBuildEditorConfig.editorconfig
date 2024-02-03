@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Consultorio_Kevin_Guzmán
+build_property.ProjectDir = C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

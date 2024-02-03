@@ -1,0 +1,29 @@
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.exe
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.deps.json
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.runtimeconfig.json
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.dll
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.pdb
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.AssemblyInfoInputs.cache
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.AssemblyInfo.cs
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.csproj.CoreCompileInputs.cache
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.dll
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\refint\Consultorio Kevin Guzmán.dll
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.pdb
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.genruntimeconfig.cache
+C:\Users\soporte\Desktop\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\ref\Consultorio Kevin Guzmán.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.exe
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.deps.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.runtimeconfig.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\bin\Debug\net8.0\Consultorio Kevin Guzmán.pdb
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.AssemblyInfoInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.AssemblyInfo.cs
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.csproj.CoreCompileInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.sourcelink.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\refint\Consultorio Kevin Guzmán.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.pdb
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\Consultorio Kevin Guzmán.genruntimeconfig.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Consultorio Kevin Guzmán\Consultorio Kevin Guzmán\obj\Debug\net8.0\ref\Consultorio Kevin Guzmán.dll
