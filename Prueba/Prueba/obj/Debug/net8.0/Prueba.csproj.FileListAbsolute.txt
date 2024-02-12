@@ -1,0 +1,15 @@
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\bin\Debug\net8.0\Prueba.exe
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\bin\Debug\net8.0\Prueba.deps.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\bin\Debug\net8.0\Prueba.runtimeconfig.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\bin\Debug\net8.0\Prueba.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\bin\Debug\net8.0\Prueba.pdb
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\Prueba.sourcelink.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\Prueba.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\Prueba.pdb
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\Prueba.genruntimeconfig.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Prueba\Prueba\obj\Debug\net8.0\ref\Prueba.dll

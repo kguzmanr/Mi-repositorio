@@ -1,0 +1,5 @@
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\obj\Debug\net8.0\Proyecto caja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\obj\Debug\net8.0\Proyecto caja.AssemblyInfoInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\obj\Debug\net8.0\Proyecto caja.AssemblyInfo.cs
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\obj\Debug\net8.0\Proyecto caja.csproj.CoreCompileInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\obj\Debug\net8.0\Proyecto caja.sourcelink.json

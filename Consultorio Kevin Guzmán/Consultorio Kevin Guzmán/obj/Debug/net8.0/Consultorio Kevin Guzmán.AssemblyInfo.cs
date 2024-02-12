@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Consultorio Kevin Guzmán")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+978cefaab2a1db07b91ad564830c398544102952")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc7f458d5e4bc972d112e01b6d108f05a0a11ad5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Consultorio Kevin Guzmán")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Consultorio Kevin Guzmán")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

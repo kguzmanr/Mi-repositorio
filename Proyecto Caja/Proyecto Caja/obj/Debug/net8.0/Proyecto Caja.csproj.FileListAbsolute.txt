@@ -1,0 +1,30 @@
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.exe
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.deps.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.runtimeconfig.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.pdb
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.AssemblyInfoInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.AssemblyInfo.cs
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.csproj.CoreCompileInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.sourcelink.json
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\refint\Proyecto Caja.dll
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.pdb
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.genruntimeconfig.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\ref\Proyecto Caja.dll
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.AssemblyInfoInputs.cache
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.AssemblyInfo.cs
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.csproj.CoreCompileInputs.cache
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.sourcelink.json
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.dll
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\refint\Proyecto Caja.dll
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.pdb
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.exe
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.deps.json
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.runtimeconfig.json
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.dll
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\bin\Debug\net8.0\Proyecto Caja.pdb
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\Proyecto Caja.genruntimeconfig.cache
+C:\Users\soporte\OneDrive - Universidad Politécnica Internacional\2024\Primer cuatrimestre\Progra 2\Proyecto Caja\Proyecto Caja\obj\Debug\net8.0\ref\Proyecto Caja.dll

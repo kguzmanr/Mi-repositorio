@@ -177,25 +177,6 @@ void asignar()
     }
 }
 
-void consultar()
-{
-    bool citaencontrada = false;
-    Console.WriteLine("Digite el nombre que desea buscar: ");
-    nomb = Console.ReadLine();
-    for (int i = 0; i < nombre.Length; i++)
-    {
-        if (nomb.Equals(nombre[i]))
-        {
-
-            Console.WriteLine($"La cita de {nomb} es (fechahora)");
-            citaencontrada = true;
-        }
-    }
-    if (citaencontrada == false)
-    {
-        Console.WriteLine($"El paciente {nomb} no existe");
-    }
-}
 void menu()
 {
     do
@@ -220,7 +201,7 @@ void menu()
             case 3: consulta(); break;
             case 4: consultacita();  break;
             case 5: asignar(); break;
-            case 6: consultar(); break;
+            case 6:  break;
             default:
                 break;
         }
