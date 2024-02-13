@@ -1,0 +1,7 @@
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Examen 1 - Kevin Guzmán\Examen 1 - Kevin Guzmán\bin\Debug\Examen 1 - Kevin Guzmán.exe.config
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Examen 1 - Kevin Guzmán\Examen 1 - Kevin Guzmán\bin\Debug\Examen 1 - Kevin Guzmán.exe
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Examen 1 - Kevin Guzmán\Examen 1 - Kevin Guzmán\bin\Debug\Examen 1 - Kevin Guzmán.pdb
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Examen 1 - Kevin Guzmán\Examen 1 - Kevin Guzmán\obj\Debug\Examen 1 - Kevin Guzmán.csproj.AssemblyReference.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Examen 1 - Kevin Guzmán\Examen 1 - Kevin Guzmán\obj\Debug\Examen 1 - Kevin Guzmán.csproj.CoreCompileInputs.cache
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Examen 1 - Kevin Guzmán\Examen 1 - Kevin Guzmán\obj\Debug\Examen 1 - Kevin Guzmán.exe
+C:\Users\kev-g\OneDrive - Instituto Parauniversitario Politecnico Internacional\2024\Primer cuatrimestre\Progra 2\Examen 1 - Kevin Guzmán\Examen 1 - Kevin Guzmán\obj\Debug\Examen 1 - Kevin Guzmán.pdb
