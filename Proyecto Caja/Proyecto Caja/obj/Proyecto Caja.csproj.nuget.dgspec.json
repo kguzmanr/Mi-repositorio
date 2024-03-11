@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soporte\\OneDrive - Universidad Politécnica Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\Proyecto Caja.csproj": {}
+    "C:\\Users\\kev-g\\OneDrive - Instituto Parauniversitario Politecnico Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\Proyecto Caja.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soporte\\OneDrive - Universidad Politécnica Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\Proyecto Caja.csproj": {
+    "C:\\Users\\kev-g\\OneDrive - Instituto Parauniversitario Politecnico Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\Proyecto Caja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soporte\\OneDrive - Universidad Politécnica Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\Proyecto Caja.csproj",
+        "projectUniqueName": "C:\\Users\\kev-g\\OneDrive - Instituto Parauniversitario Politecnico Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\Proyecto Caja.csproj",
         "projectName": "Proyecto Caja",
-        "projectPath": "C:\\Users\\soporte\\OneDrive - Universidad Politécnica Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\Proyecto Caja.csproj",
-        "packagesPath": "C:\\Users\\soporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soporte\\OneDrive - Universidad Politécnica Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\obj\\",
+        "projectPath": "C:\\Users\\kev-g\\OneDrive - Instituto Parauniversitario Politecnico Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\Proyecto Caja.csproj",
+        "packagesPath": "C:\\Users\\kev-g\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kev-g\\OneDrive - Instituto Parauniversitario Politecnico Internacional\\2024\\Primer cuatrimestre\\Progra 2\\Proyecto Caja\\Proyecto Caja\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kev-g\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

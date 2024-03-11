@@ -361,7 +361,7 @@ void ModificarDato(int posicion)
             Console.WriteLine("Dato modificado correctamente");
         }
 
-    } while (opcion != 11);
+    } while (opcion != 10);
 }
 
 void EliminarPagos()
@@ -555,7 +555,7 @@ void VerPagosPorTipoServicio()
             }
             else
             {
-                if (tipoServicio == tipodeservicio)
+                if (tiposServicio[i] == tipodeservicio)
                 {
                     Console.WriteLine(numeroPagos[i].ToString().PadRight(8) + fechas[i].ToShortDateString().PadRight(11) + cedulas[i].ToString().PadRight(12) + nombres[i].ToString().PadRight(16) + apellidos1[i].ToString().PadRight(20) + apellidos2[i].ToString().PadRight(20) + montosAPagar[i].ToString().PadRight(22));
                     contador = contador + 1;
@@ -609,7 +609,7 @@ void VerPagosPorCodigoCaja()
             }
             else
             {
-                if (numeroCaja == numerodecaja)
+                if (numerosCaja[i] == numerodecaja)
                 {
                     Console.WriteLine(numeroPagos[i].ToString().PadRight(8) + fechas[i].ToShortDateString().PadRight(11) + cedulas[i].ToString().PadRight(12) + nombres[i].ToString().PadRight(16) + apellidos1[i].ToString().PadRight(20) + apellidos2[i].ToString().PadRight(20) + montosAPagar[i].ToString().PadRight(22));
                     contador = contador + 1;
@@ -637,9 +637,9 @@ void VerDineroComisionadoPorServicios()
         int cantElectricidad = 0;
         int cantTelefono = 0;
         int cantAgua = 0;
-        double comisionElectricidad = 0;
-        double comisionTelefono = 0;
-        double comisionAgua = 0;
+        decimal comisionElectricidad = 0;
+        decimal comisionTelefono = 0;
+        decimal comisionAgua = 0;
         int contador = 0;
 
         Console.WriteLine("Reporte de dinero comisionado - Desglose por Tipo de Servicio");
@@ -650,30 +650,28 @@ void VerDineroComisionadoPorServicios()
 
         for (int i = 0; i < 10; i++)
         {
-            if (numeroPago == 0)
+            if (numeroPagos[i] == 0)
             {
-                i = 10;
+                break; // Salir del bucle si no hay más pagos registrados
             }
-            else
-            {
-                switch (tipoServicio)
-                {
-                    case 1:
-                        cantElectricidad = cantElectricidad + 1;
-                        comisionElectricidad = comisionElectricidad + montosComision[i];
-                        break;
-                    case 2:
-                        cantTelefono = cantTelefono + 1;
-                        comisionTelefono = comisionTelefono + montosComision[i];
-                        break;
-                    case 3:
-                        cantAgua = cantAgua + 1;
-                        comisionAgua = comisionAgua + montosComision[i];
-                        break;
-                }
 
-                contador = contador + 1;
+            switch (tiposServicio[i])
+            {
+                case 1:
+                    cantElectricidad++;
+                    comisionElectricidad += montosComision[i];
+                    break;
+                case 2:
+                    cantTelefono++;
+                    comisionTelefono += montosComision[i];
+                    break;
+                case 3:
+                    cantAgua++;
+                    comisionAgua += montosComision[i];
+                    break;
             }
+
+            contador++;
         }
 
         Console.WriteLine("1-Electricidad   " + cantElectricidad.ToString().PadRight(34) + comisionElectricidad.ToString());
